@@ -1,3 +1,3 @@
 Files using as blog content source
 Put files into git repo, so we can consume it by using git api
-for example using this repo: https://github.com/gitdagray/test-blogposts
+for example using this repo: https://github.com/adithcraft/blogpost-mdx
